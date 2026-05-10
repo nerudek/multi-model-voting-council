@@ -23,7 +23,7 @@ Works with any models running on LM Studio (`http://127.0.0.1:1234/v1`).
 ```bash
 npx clawhub install arena-council
 # or
-git clone https://github.com/nerua1/arena-council ~/.openclaw/workspace/skills/arena-council
+git clone https://github.com/nerudek/arena-council ~/.openclaw/workspace/skills/arena-council
 ```
 
 See `SKILL.md` for full documentation.
